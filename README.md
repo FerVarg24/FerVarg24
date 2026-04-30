@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Luis%20Fernando%20Vargas%20M.&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Tech%20Lead%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=55&animation=fadeIn"/>
+
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-luisf.vargasm24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisf.vargasm24@gmail.com)
