@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Luis%20Fernando%20Vargas%20M.&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Tech%20Lead%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=55&animation=fadeIn"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+intelligent+systems+with+computer+vision+%F0%9F%94%AD;Turning+hackathons+into+real-world+solutions+%F0%9F%8F%86)](https://git.io/typing-svg)
