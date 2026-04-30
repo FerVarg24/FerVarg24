@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=45&lines=AI+%26+Computer+Vision+Engineer+%F0%9F%94%AD;Tech+Lead+%7C+Full+Stack+Developer+%F0%9F%9A%80;Turning+hackathons+into+real-world+solutions+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=45&lines=AI+%26+Computer+Vision+Engineer+%F0%9F%94%AD;Tech+Lead+%7C+Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-luisf.vargasm24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisf.vargasm24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fer--vargas24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fer-vargas24)
